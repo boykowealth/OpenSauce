@@ -1,8 +1,8 @@
 <img width="1200" height="240" alt="opensauce_banner" src="assets/opensauce_banner.svg" />
 
-**A precision recipe repository for New York-style pizza.** Every attempt logged. Every variable tracked. Every iteration building toward the perfect pie.
+**A precision recipe repository for pizza.** Every attempt logged. Every variable tracked. Every iteration building toward the perfect pie.
 
-Browse the full catalog and submit your own recipes at **[open-sauce-pn5a.vercel.app](https://open-sauce-pn5a.vercel.app)**.
+Browse the full catalog and submit your own recipes at **[opensauce.app](https://open-sauce-pn5a.vercel.app)**.
 
 ---
 
