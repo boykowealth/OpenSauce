@@ -68,4 +68,4 @@ Reproducibility is the entire point. These are the variables that actually move 
 
 ## License
 
-Recipes and data are released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) - no rights reserved. Do whatever you want with them.
+Recipes and data are released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) - no rights reserved.
